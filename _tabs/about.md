@@ -4,16 +4,14 @@ icon: fas fa-info-circle
 order: 1
 ---
 
-![About me picture](/pic/學士照.jpg)
+![About me picture](pic/學士照兩吋.jpg)
 
 # Education:
-B.S., in Physics Honors, 2016, Purdue University
-
-M.S., in Physics, 2018, Bowling Green State University
+B.S.,  in Department of Electrical Engineering, 2018, National Taiwan University
 
 # About Me
 
-I am currently a graduate student at the University of Pittsburgh Department of Physics and Astronomy working on my Ph.D in Physics. I earned my M.S. in physics at BGSU studying symbiotic stars and variable stars in general using time series photometry. Before graduate school I spent four years at Purdue University earning my B.S. in Honors Physics with a minor in astronomy.
+<!-- I am currently a graduate student at the University of Pittsburgh Department of Physics and Astronomy working on my Ph.D in Physics. I earned my M.S. in physics at BGSU studying symbiotic stars and variable stars in general using time series photometry. Before graduate school I spent four years at Purdue University earning my B.S. in Honors Physics with a minor in astronomy.
 
 While at Pittsburgh and Purdue, I've participated in Women in Physics groups. Combating patriarchal mindsets about who is welcome in STEM fields is so important: I've seen several promising physicists driven away by blatant sexism. The scientific community is poorer for their loss. Supporting diversity leads to a thriving diversity of thoughts, which leads to breakthrough discoveries.
 
@@ -23,4 +21,4 @@ When I'm not coding or puzzling over research papers, you can find me reading sc
 
 
 
-**Publications:** [ADS link](https://ui.adsabs.harvard.edu/search/q=orcid%3A0000-0002-4475-3181&sort=date%20desc%2C%20bibcode%20desc&p_=0)
+**Publications:** [ADS link](https://ui.adsabs.harvard.edu/search/q=orcid%3A0000-0002-4475-3181&sort=date%20desc%2C%20bibcode%20desc&p_=0) -->

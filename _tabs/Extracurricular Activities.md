@@ -4,7 +4,7 @@ icon: fas fa-users
 order: 4
 ---
 
-![community](/assets/img/tabs/community.jpg)
+<!-- ![community](/assets/img/tabs/community.jpg)
 
 # Teaching:
 I started teaching during my undergrad at Purdue University. I was an
@@ -35,4 +35,4 @@ In 2014 I raised over $5,000 and biked over 4,000 miles across the U.S. with
 [Bike & Build](https://bikeandbuild.org) to raise money and awareness for
 affordable housing. During this trip my team and I helped build eight houses
 with Habitat for Humanity over 10 days of building and donated over $100,000 to
-various affordable housing projects across the country.
+various affordable housing projects across the country. -->
