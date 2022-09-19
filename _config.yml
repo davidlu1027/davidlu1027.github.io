@@ -21,7 +21,7 @@ timezone: Asia/Shanghai
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Yen An Lu                          # the main title
+title: Yen-An Lu                          # the main title
 
 tagline: NTUEE   # it will display as the sub-title
 
@@ -83,7 +83,7 @@ theme_mode:    #[light|dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar:
+avatar: pic/學士照.PNG
 
 # boolean type, the global switch for ToC in posts.
 toc: true
