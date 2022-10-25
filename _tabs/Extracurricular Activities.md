@@ -1,5 +1,5 @@
 ---
-title: Extracurricular Activities
+title: Calligraphy Club
 icon: fas fa-users
 order: 4
 ---

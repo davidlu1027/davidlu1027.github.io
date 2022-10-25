@@ -4,21 +4,12 @@ icon: fas fa-info-circle
 order: 1
 ---
 
-![About me picture](pic/學士照兩吋.jpg)
-
+<!-- ![About me picture](pic/學士照兩吋.jpg) -->
+<img src="pic/學士照兩吋.jpg" alt="drawing" width="200"/>
 # Education:
 B.S.,  in Department of Electrical Engineering, 2018, National Taiwan University
 
 # About Me
 
-<!-- I am currently a graduate student at the University of Pittsburgh Department of Physics and Astronomy working on my Ph.D in Physics. I earned my M.S. in physics at BGSU studying symbiotic stars and variable stars in general using time series photometry. Before graduate school I spent four years at Purdue University earning my B.S. in Honors Physics with a minor in astronomy.
+I am currently a graduate student at the <font color="yellow">National Taiwan University Department of Electrical Engineering</font>. In university, I joined the <font color="yellow">Energy-Efficient Circuits and Systems Lab (EECS Lab)</font> to develop energy-efficient machine learning accelerators that can reduce the power consumption of IoT devices. Later, I did an internship at <font color="yellow">Academia Sinica</font> (an eminent research institute in Taiwan) where I researched compute-in-memory architecture. I became familiar with low-power circuit design. I plan to continue exploring <font color="yellow">machine learning accelerators in IoT devices</font> in my master’s studies.
 
-While at Pittsburgh and Purdue, I've participated in Women in Physics groups. Combating patriarchal mindsets about who is welcome in STEM fields is so important: I've seen several promising physicists driven away by blatant sexism. The scientific community is poorer for their loss. Supporting diversity leads to a thriving diversity of thoughts, which leads to breakthrough discoveries.
-
-When I'm not coding or puzzling over research papers, you can find me reading sci-fi and fantasy books on my Kindle, going on adventures with my friends, or cooking with my wife. I'm an avid cyclist who's ridden more than 12,000 miles to date, including a trans-continental trip with [Bike & Build](https://bikeandbuild.org). My interests also include sound design, woodworking, and electronics.
-
-![About me picture](/assets/img/tabs/about-me-cycling.jpg)
-
-
-
-**Publications:** [ADS link](https://ui.adsabs.harvard.edu/search/q=orcid%3A0000-0002-4475-3181&sort=date%20desc%2C%20bibcode%20desc&p_=0) -->
