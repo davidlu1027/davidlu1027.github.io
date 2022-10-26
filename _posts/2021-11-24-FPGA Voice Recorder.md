@@ -1,5 +1,5 @@
 ---
-title: FPGA Voice Recordera
+title: FPGA Voice Recorder
 date: 2021-11-24 17:32:00 +0800
 categories: [Circuit Design, FPGA]
 tags:  [fpga]     # TAG names should always be lowercase
