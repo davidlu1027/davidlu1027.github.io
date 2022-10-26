@@ -1,5 +1,5 @@
 ---
-title: FPGA Voice Recorder
+title: FPGA Voice Recorder 
 date: 2021-11-24 17:32:00 +0800
 categories: [Circuit Design, FPGA]
 tags:  [fpga]     # TAG names should always be lowercase
@@ -12,7 +12,7 @@ tags:  [fpga]     # TAG names should always be lowercase
 - Two modes of zero-time interpolation and one-time interpolation should be included during slow playback
 
 # Architecture:
-![About me picture](pic/recorder.png)
+![About me picture](pic/recorder.PNG)
 
 ## I<sup>2</sup>C:
 - Initialize WM8731

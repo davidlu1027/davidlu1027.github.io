@@ -15,6 +15,12 @@ order: 3
 
 - Applied process-in-memory architecture and heterogeneous memory(HBM and DIMM) to accelerate the training time of the recommender system.
 
+# [FPGA Voice Recorder](https://davidlu1027.github.io/posts/FPGA-Voice-Recorder/):
+
+- Implemented I<sup>2</sup>C to initialize the WM8731 chip.
+
+- Controlled the DAT/CLK signals of the WM8731 chip to make a recorder.
+
 # [Gauss-Seidel Iteration Machine](https://davidlu1027.github.io/posts/Gauss-Seidel-Iteration-Machine/):
 
 - Designed a low power, low latency, and low area circuit to solve a linear equation with sixteen unknown.
