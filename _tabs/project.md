@@ -4,7 +4,7 @@ icon: fas fa-users
 order: 3
 ---
 
-# [Energy-efficient keyword spotting accelerator](https://davidlu1027.github.io/posts/accelerator/) :
+# [Energy-Efficient Keyword Spotting Accelerator](https://davidlu1027.github.io/posts/accelerator/) :
 - Designed a low-power circuit that can identify ten keywords from one-second long utterances.
 
 - Sent our design to Taiwan Semiconductor Research Institute and taped out a depthwise separable convolution neural network (DSCNN) keyword spotting accelerator.
