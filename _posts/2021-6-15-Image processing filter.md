@@ -1,5 +1,5 @@
 ---
-title: Image processing filter
+title: Image Processing Filter
 date: 2021-6-15 09:52:00 +0800
 categories: [Circuit Design, Speech]
 tags:  [accelerator]     # TAG names should always be lowercase
