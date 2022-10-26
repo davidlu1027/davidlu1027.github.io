@@ -5,18 +5,12 @@ categories: [Circuit Design, Speech]
 tags:  [accelerator]     # TAG names should always be lowercase
 ---
 
-# Architecture:
-![About me picture](pic/dscnn.png)
-
-<center>DSCNN[1]</center>
+# Introduction:
+![About me picture](pic/girl.PNG)
  
-While standard convolution performs the channelwise and spatial-wise computation in one step, Depthwise Separable Convolution splits the computation into two steps: depthwise convolution applies a single convolutional filter per each input channel and pointwise convolution is used to create a linear combination of the output of the depthwise convolution. [2]
+Designed an Image Processing Filter (referred to as IPF hereinafter), the input is an image that has been divided into multiple LCUs (as shown in Figure 1), the image size is fixed at 128x128 Pixels, and the LCU Size is 16x16, 32x32, 64x64 Three possibilities. 16x16 and 64x64 are public test data, and 32x32 is hidden test data. IPF performs independent calculation on each LCU. Finally, after processing the entire image, pull the finish signal to High, and the system will automatically compare the entire image data. correctness. The definition of LCU and the detailed operation method of IPF will be described later.
 
-# Design
+# Architecture
 
-![About me picture](pic/acc.png)
+![About me picture](pic/ipf_arc.PNG)
 
-Reference
-
-[1]Yu-Ming Tu., Tsung-Te Liu. Hardware-Efficient Keyword Spotting System(2022) 
-[2]https://paperswithcode.com/method/depthwise-separable-convolution

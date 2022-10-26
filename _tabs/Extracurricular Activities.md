@@ -3,36 +3,6 @@ title: Calligraphy Club
 icon: fas fa-users
 order: 4
 ---
-
-<!-- ![community](/assets/img/tabs/community.jpg)
-
-# Teaching:
-I started teaching during my undergrad at Purdue University. I was an
-undergraduate TA for PHYS 272 (Intro to E&M and STEM majors) at Purdue for three
-years until I graduated. After that I was a graduate TA at Bowling Green State
-University for five semester teaching introductory physics lab classes. Between
-fall 2018 and summer 2020 I was a graduate TA at the University of Pittsburgh
-teaching a variety of introductory astronomy and physics courses.
-
-
-# Equity & Inclusion:
-At Purdue, I was very involved with the Society of Physics Students (SPS) for
-several years. As President of SPS in my senior year, I doubled the number of
-active SPS members and transformed our almost abandoned student lounge into a
-center of thriving academic discussion. I was also involved with the Women in
-Physics at Purdue University (WIP) program, and assisted them in hosting the
-2015 Midwestern Conference for Undergraduate Women in Physics.
-
-I am also an active member of the University of Pittsburgh's Women and
-Minorities in Physics program. Programs like this encourage discussion and
-foster deeper understanding of the issues facing minorities in STEM fields.
-Diversity in all forms is fundamentally important to science, and I want to take
-every opportunity to help
-foster that diversity.
-
-# Affordable Housing:
-In 2014 I raised over $5,000 and biked over 4,000 miles across the U.S. with
-[Bike & Build](https://bikeandbuild.org) to raise money and awareness for
-affordable housing. During this trip my team and I helped build eight houses
-with Habitat for Humanity over 10 days of building and donated over $100,000 to
-various affordable housing projects across the country. -->
+![About me picture](pic/group.jpg)
+The National Taiwan University Masters and Students Jinshi Calligraphy and Painting Exhibition was formerly known as the "Taiwan Teachers and Students Calligraphy Exhibition". "Co-organized, and invited National Taiwan University faculty members and contemporary famous artists to participate in the exhibition. With the efforts of Chang Jiang Hanwei, Professor Guo Wenfu of the Department of Philosophy of National Taiwan University, Professor Su Tianci, the technical guide, and members of the National Taiwan University Calligraphy Society, more than 70 calligraphy works were displayed in the first National Taiwan University Master and Student Calligraphy Exhibition. The exhibiting authors include three generations of old, middle-aged and young people, from the long-established old man in the calligraphy circle to the young rising star. Due to the wonderful and rich content of the exhibition, it has won unanimous praise both inside and outside the school.
+![About me picture](pic/calli.jpg)

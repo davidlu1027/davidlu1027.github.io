@@ -53,7 +53,7 @@ Multiply the energy spectrum energy by a set of 20 triangular bandpass filters t
 ![About me picture](pic/mel_10.png)
 
 ## Circuit
-![About me picture](pic/mel_filter.PNG)
+![About me picture](pic/mel_filter.png)
 
 Take the absolute value of the FFT output and pass it through the mel filter
 # Architecture:
