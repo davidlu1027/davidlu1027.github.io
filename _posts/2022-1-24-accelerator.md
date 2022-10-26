@@ -50,10 +50,10 @@ Different energy distributions can represent different speech sounds. characteri
 
 # Mel Filter
 Multiply the energy spectrum energy by a set of 20 triangular bandpass filters to find the log energy (Log Energy) of the output of each filter. It must be noted that these 20 triangular bandpass filters are evenly distributed on the "Mel Frequency", and the relationship between the Mel frequency and the general frequency f is as follows:
-![About me picture](pic/mel_10.png)
+![About me picture](pic/mel_10.PNG)
 
 ## Circuit
-![About me picture](pic/mel_filter.PNG)
+![About me picture](pic/mel_filter.png)
 
 Take the absolute value of the FFT output and pass it through the mel filter
 # Architecture:
