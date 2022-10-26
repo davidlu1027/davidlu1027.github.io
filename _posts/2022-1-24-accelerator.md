@@ -1,5 +1,5 @@
 ---
-title: Energy-efficient keyword spotting accelerator
+title: Energy-efficient keyword spotting Accelerator
 date: 2022-1-24 09:52:00 +0800
 categories: [Circuit Design, Speech]
 tags:  [accelerator]     # TAG names should always be lowercase
@@ -53,11 +53,11 @@ Multiply the energy spectrum energy by a set of 20 triangular bandpass filters t
 ![About me picture](pic/mel_10.png)
 
 ## Circuit
-![About me picture](pic/mel_filter.png)
+![About me picture](pic/mel_filter.PNG)
 
 Take the absolute value of the FFT output and pass it through the mel filter
 # Architecture:
-![About me picture](pic/dscnn.png)
+![About me picture](pic/dscnn.PNG)
 
 <center>DSCNN[1]</center>
  
@@ -65,7 +65,7 @@ While standard convolution performs the channelwise and spatial-wise computation
 
 # Design
 
-![About me picture](pic/acc.png)
+![About me picture](pic/acc.PNG)
 
 Reference
 
