@@ -1,5 +1,5 @@
 ---
-title: Energy-efficient keyword spotting Accelerator
+title: Energy-efficient keyword spotting accelerator
 date: 2022-1-24 09:52:00 +0800
 categories: [Circuit Design, Speech]
 tags:  [accelerator]     # TAG names should always be lowercase
