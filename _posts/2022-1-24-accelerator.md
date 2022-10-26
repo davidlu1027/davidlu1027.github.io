@@ -39,7 +39,7 @@ Multiply each frame by a Hamming window to increase continuity at the left and r
 <center>Using hamming_mem to store constants for trigonometric functions, and multiply by the input signal.</center>
 
 
-# R2^2sdf:
+# R2<sup>2</sup>SDF:
 Since the change of the signal in the time domain (Time domain) is usually difficult to see the characteristics of the signal, it is usually converted into the energy distribution in the frequency domain (Frequency domain) for observation. 
 
 Different energy distributions can represent different speech sounds. characteristic. So after multiplying the Hamming window, each sound frame must go through FFT again to get the energy distribution on the spectrum.
@@ -53,7 +53,7 @@ Multiply the energy spectrum energy by a set of 20 triangular bandpass filters t
 ![About me picture](pic/mel_10.png)
 
 ## Circuit
-![About me picture](pic/mel_filter.png)
+![About me picture](pic/mel_filter.PNG)
 
 Take the absolute value of the FFT output and pass it through the mel filter
 # Architecture:
